@@ -50,7 +50,7 @@ Then go to `http://localhost:8000` from your browser and see the app.
 
 ## Ask a question?
 
-If you have any query please contact at milon521@gmail.com
+If you have any query please contact at iamaqim@gmail.com
 
 ## Screenshot
 
